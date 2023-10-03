@@ -1,0 +1,21 @@
+/* header */
+.main{
+    display: flex;
+    margin-left: 45px;
+    padding: 18px;
+}
+.ace{
+    color: rgb(56, 14, 244);
+}
+.connect{
+    margin-left: 350px;
+    display: flex;
+}
+#connectcss{
+    border-style: solid;
+    border-radius: 30px;
+    padding: 15px;
+}
+#vector{
+    margin-left: 40px;
+}
