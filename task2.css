@@ -1,0 +1,48 @@
+/* first line photos */
+.firstlinemain{
+    display: flex;
+}
+/* photo no 1 */
+.photo1{
+    margin-left: 25%;
+}
+.photo1 h2{
+    color: rgb(72, 72, 255);
+}
+.photo1 p{
+    color: rgb(146, 146, 146);
+}
+/* photo no 2 */
+.photo2{
+    margin-left: 21%;
+}
+.photo2 h2{
+    color: rgb(72, 72, 255);
+}
+.photo2 p{
+    color: rgb(146, 146, 146);
+}
+/* second line photos */
+/* photo no 3 */
+.secondlinemain{
+    display: flex;
+}
+.photo3{
+    margin-left: 25%;
+}
+.photo3 h2{
+    color: rgb(72, 72, 255);
+}
+.photo3 p{
+    color: rgb(146, 146, 146);
+}
+/* photo no 4 */
+.photo4{
+    margin-left: 21%;
+}
+.photo4 h2{
+    color: rgb(72, 72, 255);
+}
+.photo4 p{
+    color: rgb(146, 146, 146);
+}
