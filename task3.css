@@ -1,0 +1,7 @@
+.photos{
+    text-align: center;
+}
+.photos img{
+    justify-content: center;
+    padding: 23px;
+}
